@@ -1,6 +1,6 @@
 # Wallet Recovery — Public Project Information
 
-This public repository contains documentation only. It does not contain the Wallet Recovery application, its source code or recovery engine, executable packages, activation services, activation-code generators, signing keys, API credentials, or license secrets. Downloads are available only from the official website; this repository does not host download files.
+This public repository contains documentation only. It does not contain the Wallet Recovery application, its source code or recovery engine, executable packages, activation services, activation-code generators, signing keys, API credentials, or license secrets. Official downloads are available from the official website and authorized stores; this repository does not host download files.
 
 Wallet Recovery is intended to help a rightful owner recover access to their own wallet when they have forgotten some BIP-39 recovery words or their order. Current Windows and Android versions support English, Persian, Russian, and Simplified Chinese. The application supports BNB Smart Chain, Ethereum, Polygon, Solana, and Tron.
 
@@ -26,6 +26,7 @@ Use Wallet Recovery only for your own wallet or with the owner's explicit permis
 - Website: https://foxnext.net/en/
 - Wallet Recovery product and activation information: https://foxnext.net/en/wallet-recovery.html
 - Downloads: https://foxnext.net/en/download.html
+- Android (APKPure): [Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery)
 
 ---
 
@@ -51,6 +52,7 @@ Use Wallet Recovery only for your own wallet or with the owner's explicit permis
 - وب‌سایت: https://foxnext.net/fa/
 - صفحهٔ Wallet Recovery و اطلاعات فعال‌سازی: https://foxnext.net/fa/wallet-recovery.html
 - دانلودها: https://foxnext.net/fa/download.html
+- اندروید (APKPure): [Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery)
 
 ---
 
@@ -76,6 +78,7 @@ Use Wallet Recovery only for your own wallet or with the owner's explicit permis
 - Сайт: https://foxnext.net/ru/
 - Страница Wallet Recovery и сведения об активации: https://foxnext.net/ru/wallet-recovery.html
 - Загрузки: https://foxnext.net/ru/download.html
+- Android (APKPure): [Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery)
 
 ---
 
@@ -101,3 +104,4 @@ Wallet Recovery 仅可用于您自己的钱包，或已获得所有者明确授�
 - 网站：https://foxnext.net/zh/
 - Wallet Recovery 产品与激活信息：https://foxnext.net/zh/wallet-recovery.html
 - 下载页面：https://foxnext.net/zh/download.html
+- Android（APKPure）：[Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery)
