@@ -46,6 +46,11 @@ Use the HTTPS site and confirm the domain is exactly `foxnext.net`. Follow the W
 ### Ethical use and responsibility
 Use Wallet Recovery only for your own wallet or with the owner's explicit permission. Do not use it to access another person's wallet or obtain, disclose, or misuse another person's recovery phrase or keys. You are responsible for authorization, compliance with applicable laws, and protecting your information. Black Fox Group promotes ethical use and respect for privacy and ownership.
 
+### Activation and payment methods
+- **Automated online activation:** Open the [official activation page](https://foxnext.net/en/wallet-recovery-activation.html), complete a `USDT` (`BNB Smart Chain · BEP-20`) transfer, and submit your transaction hash (`TX Hash`) to get a one-time claim code. Paste it into the app to bind a permanent license to your `Device ID`.
+- **Multiple payment options & direct activation:** Alternative cryptocurrency networks and additional payment methods are also supported. Contact Telegram support ([@Hiblackfox](https://t.me/Hiblackfox)) or email (`support@foxnext.net`) with your `Device ID` to coordinate payment and receive a permanent activation code directly.
+- Recovery phrases, passphrases, and private keys are never needed or sent during activation.
+
 ### Official links
 - Website: https://foxnext.net/en/
 - Wallet Recovery product and activation information: https://foxnext.net/en/wallet-recovery.html
@@ -74,6 +79,11 @@ Use Wallet Recovery only for your own wallet or with the owner's explicit permis
 
 ### استفادهٔ اخلاقی و مسئولیت
 از Wallet Recovery فقط برای کیف پول خودتان یا با اجازهٔ صریح مالک استفاده کنید. برای دسترسی به کیف پول دیگران یا به‌دست‌آوردن، افشا یا سوءاستفاده از عبارت بازیابی و کلیدهای دیگران از آن استفاده نکنید. گرفتن مجوز، رعایت قوانین قابل‌اجرا و حفاظت از اطلاعات بر عهدهٔ شماست. Black Fox Group رعایت اصول اخلاقی و احترام به حریم خصوصی و مالکیت را ترویج می‌کند.
+
+### فعال‌سازی و روش‌های پرداخت
+- **فعال‌سازی آنلاین خودکار:** وارد [صفحهٔ رسمی فعال‌سازی](https://foxnext.net/fa/wallet-recovery-activation.html) شوید، پرداخت `USDT` (روی شبکهٔ `BNB Smart Chain · BEP-20`) را انجام دهید و با ثبت هش تراکنش (`TX Hash`) یک کد فعال‌سازی یک‌بارمصرف دریافت کنید. با ثبت این کد در برنامه، مجوز دائمی به `Device ID` دستگاه شما متصل می‌شود.
+- **سایر روش‌های پرداخت و فعال‌سازی مستقیم (از جمله پرداخت ریالی):** امکان پرداخت از طریق سایر شبکه‌های رمزارزی، روش‌های جایگزین و همچنین **پرداخت ریالی** فراهم است. برای هماهنگی پرداخت و دریافت مستقیم کد فعال‌سازی دائمی، `Device ID` خود را به پشتیبانی تلگرام ([@Hiblackfox](https://t.me/Hiblackfox)) یا ایمیل (`support@foxnext.net`) ارسال کنید.
+- در هیچ‌کدام از روش‌های فعال‌سازی نیازی به ارسال عبارت بازیابی یا کلید خصوصی نیست.
 
 ### پیوندهای رسمی
 - وب‌سایت: https://foxnext.net/fa/
@@ -104,6 +114,11 @@ Use Wallet Recovery only for your own wallet or with the owner's explicit permis
 ### Этичное использование и ответственность
 Используйте Wallet Recovery только для своего кошелька либо с явного разрешения владельца. Не применяйте его для доступа к чужому кошельку, получения, раскрытия или неправомерного использования чужой фразы восстановления или ключей. Вы отвечаете за наличие разрешения, соблюдение применимых законов и защиту своей информации. Black Fox Group поддерживает этичное использование и уважение к конфиденциальности и праву собственности.
 
+### Активация и способы оплаты
+- **Автоматическая онлайн-активация:** Откройте [официальную страницу активации](https://foxnext.net/ru/wallet-recovery-activation.html), выполните перевод `USDT` (в сети `BNB Smart Chain · BEP-20`) и укажите хеш транзакции (`TX Hash`), чтобы получить одноразовый код. Введите этот код в приложении для привязки постоянной лицензии к вашему `Device ID`.
+- **Несколько способов оплаты и прямая активация:** Также поддерживаются переводы в других криптовалютных сетях и альтернативные способы оплаты. Чтобы согласовать оплату и получить постоянный код активации напрямую, отправьте свой `Device ID` в поддержку в Telegram ([@Hiblackfox](https://t.me/Hiblackfox)) или на почту (`support@foxnext.net`).
+- Фразы восстановления, парольные фразы и приватные ключи никогда не требуются и не передаются при активации.
+
 ### Официальные ссылки
 - Сайт: https://foxnext.net/ru/
 - Страница Wallet Recovery и сведения об активации: https://foxnext.net/ru/wallet-recovery.html
@@ -132,6 +147,11 @@ Use Wallet Recovery only for your own wallet or with the owner's explicit permis
 
 ### 道德使用与责任
 Wallet Recovery 仅可用于您自己的钱包，或已获得所有者明确授权的钱包。不得使用本软件访问他人的钱包，也不得获取、披露或滥用他人的助记词或密钥。您有责任取得授权、遵守适用法律并保护自己的信息。Black Fox Group 倡导合乎道德的使用方式，并尊重隐私与所有权。
+
+### 激活与支付方式
+- **在线自动激活：** 访问[官方激活页面](https://foxnext.net/zh/wallet-recovery-activation.html)，完成 `USDT`（`BNB Smart Chain · BEP-20` 网络）转账并提交交易哈希（`TX Hash`），即可获取一次性激活码；在应用中输入后即可将永久许可证绑定至您的 `Device ID`。
+- **多种支付渠道与直接激活：** 除上述方式外，还支持其他加密货币网络及多种备用支付方式。如需使用其他方式付款或直接获取永久激活码，请将您的 `Device ID` 发送至 Telegram 客服（[@Hiblackfox](https://t.me/Hiblackfox)）或联系邮箱（`support@foxnext.net`）。
+- 激活过程中绝不需要、也不会发送您的助记词、额外密码或私钥。
 
 ### 官方链接
 - 网站：https://foxnext.net/zh/
