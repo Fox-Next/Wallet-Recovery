@@ -1,8 +1,32 @@
-# Wallet Recovery — Public Project Information
+<p align="center">
+  <img src="assets/logo.png" alt="Wallet Recovery Logo" width="128">
+</p>
+
+<h1 align="center">Wallet Recovery</h1>
+
+<p align="center">
+  <strong>Offline BIP-39 Recovery &amp; Multi-Chain Scanner · Black Fox Group</strong><br>
+  Windows &amp; Android · BNB Smart Chain · Ethereum · Polygon · Solana · Tron
+</p>
+
+<p align="center">
+  <a href="#english">English</a> ·
+  <a href="#فارسی">فارسی</a> ·
+  <a href="#русский">Русский</a> ·
+  <a href="#中文">中文</a> ·
+  <a href="https://foxnext.net/en/wallet-recovery.html">Website</a> ·
+  <a href="https://apkpure.com/p/net.foxnext.ru.walletrecovery">APKPure</a> ·
+  <a href="https://t.me/Hiblackfox">Telegram</a> ·
+  <a href="https://github.com/BlackFoxGroup/Wallet-Recovery">GitHub</a>
+</p>
+
+---
 
 This public repository contains documentation only. It does not contain the Wallet Recovery application, its source code or recovery engine, executable packages, activation services, activation-code generators, signing keys, API credentials, or license secrets. Official downloads are available from the official website (`foxnext.net`) and APKPure ([Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery)); this repository does not host download files.
 
 Wallet Recovery is intended to help a rightful owner recover access to their own wallet when they have forgotten some BIP-39 recovery words or their order. Current Windows and Android versions support English, Persian, Russian, and Simplified Chinese. The application supports BNB Smart Chain, Ethereum, Polygon, Solana, and Tron.
+
+<a id="english"></a>
 
 ## English
 
@@ -31,6 +55,8 @@ Use Wallet Recovery only for your own wallet or with the owner's explicit permis
 
 ---
 
+<a id="فارسی"></a>
+
 ## فارسی
 
 ### شروع سریع
@@ -58,6 +84,8 @@ Use Wallet Recovery only for your own wallet or with the owner's explicit permis
 
 ---
 
+<a id="русский"></a>
+
 ## Русский
 
 ### Быстрый старт
@@ -84,6 +112,8 @@ Use Wallet Recovery only for your own wallet or with the owner's explicit permis
 - Telegram: [@Hiblackfox](https://t.me/Hiblackfox)
 
 ---
+
+<a id="中文"></a>
 
 ## 简体中文
 
