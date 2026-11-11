@@ -1,13 +1,13 @@
 # Wallet Recovery — Public Project Information
 
-This public repository contains documentation only. It does not contain the Wallet Recovery application, its source code or recovery engine, executable packages, activation services, activation-code generators, signing keys, API credentials, or license secrets. Official downloads are available from the official website and authorized stores; this repository does not host download files.
+This public repository contains documentation only. It does not contain the Wallet Recovery application, its source code or recovery engine, executable packages, activation services, activation-code generators, signing keys, API credentials, or license secrets. Official downloads are available from the official website (`foxnext.net`) and APKPure ([Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery)); this repository does not host download files.
 
 Wallet Recovery is intended to help a rightful owner recover access to their own wallet when they have forgotten some BIP-39 recovery words or their order. Current Windows and Android versions support English, Persian, Russian, and Simplified Chinese. The application supports BNB Smart Chain, Ethereum, Polygon, Solana, and Tron.
 
 ## English
 
 ### Quick start
-1. Open the official Wallet Recovery product page or the localized download page below. Download only from `https://foxnext.net`.
+1. Open the official Wallet Recovery product page or the localized download page below (`https://foxnext.net`). The Android version is also published on APKPure, where you can download [Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery).
 2. Install and launch the version for your device. English is the default; choose another supported language in the app when needed.
 3. Use the search only for a wallet you own or are explicitly authorized to recover. Enter the phrase length, place the words you remember in their known positions, and mark unknown positions as the app instructs. Add your own wallet's public target address and confirm its derivation path and account/index range from your wallet documentation or backup.
 4. Select only the networks you need and start the search. Review the result and the output location shown in the app's Guide.
@@ -27,13 +27,14 @@ Use Wallet Recovery only for your own wallet or with the owner's explicit permis
 - Wallet Recovery product and activation information: https://foxnext.net/en/wallet-recovery.html
 - Downloads: https://foxnext.net/en/download.html
 - Android (APKPure): [Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery)
+- Telegram: [@Hiblackfox](https://t.me/Hiblackfox)
 
 ---
 
 ## فارسی
 
 ### شروع سریع
-۱. صفحهٔ رسمی Wallet Recovery یا صفحهٔ دانلود متناسب با زبان را باز کنید. برنامه را فقط از دامنهٔ رسمی `foxnext.net` دریافت کنید.
+۱. صفحهٔ رسمی Wallet Recovery یا صفحهٔ دانلود متناسب با زبان را از دامنهٔ رسمی `foxnext.net` باز کنید. همچنین نسخهٔ اندروید این برنامه در سایت APKPure منتشر شده است و می‌توانید [Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery) را از آنجا نیز دانلود کنید.
 ۲. نسخهٔ متناسب با دستگاه را نصب و اجرا کنید. زبان پیش‌فرض انگلیسی است؛ در صورت نیاز یکی از زبان‌های پشتیبانی‌شده را در برنامه انتخاب کنید.
 ۳. جست‌وجو را فقط برای کیف پول خودتان یا کیف پولی انجام دهید که مالک آن صریحاً اجازه داده است. طول عبارت را انتخاب کنید، واژه‌های به‌یادمانده را در جایگاه درست وارد کنید و جایگاه‌های نامشخص را طبق راهنمای برنامه علامت بزنید. نشانی عمومی مقصدِ کیف پول خودتان را وارد کنید و مسیر مشتق‌سازی و محدودهٔ حساب/شاخص را با مستندات یا نسخهٔ پشتیبان کیف پولتان تطبیق دهید.
 ۴. فقط شبکه‌های موردنیاز را انتخاب و جست‌وجو را آغاز کنید. نتیجه و محل ذخیرهٔ خروجی را در راهنمای داخل برنامه بررسی کنید.
@@ -53,13 +54,14 @@ Use Wallet Recovery only for your own wallet or with the owner's explicit permis
 - صفحهٔ Wallet Recovery و اطلاعات فعال‌سازی: https://foxnext.net/fa/wallet-recovery.html
 - دانلودها: https://foxnext.net/fa/download.html
 - اندروید (APKPure): [Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery)
+- تلگرام: [@Hiblackfox](https://t.me/Hiblackfox)
 
 ---
 
 ## Русский
 
 ### Быстрый старт
-1. Откройте официальную страницу Wallet Recovery или страницу загрузок на нужном языке. Загружайте программу только с официального домена `foxnext.net`.
+1. Откройте официальную страницу Wallet Recovery или страницу загрузок на нужном языке с официального домена `foxnext.net`. Версия для Android также опубликована на APKPure — вы можете скачать [Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery) и оттуда.
 2. Установите и запустите версию для своего устройства. Язык по умолчанию — английский; при необходимости выберите в приложении один из поддерживаемых языков.
 3. Выполняйте поиск только для своего кошелька или кошелька, на восстановление которого владелец дал вам явное разрешение. Укажите длину фразы, введите известные слова на их местах и отметьте неизвестные позиции согласно подсказкам приложения. Добавьте публичный адрес своего кошелька и сверьте путь деривации и диапазон аккаунтов/индексов с документацией или резервной копией кошелька.
 4. Выберите только нужные сети и запустите поиск. Результат и место сохранения вывода смотрите в разделе Guide приложения.
@@ -79,13 +81,14 @@ Use Wallet Recovery only for your own wallet or with the owner's explicit permis
 - Страница Wallet Recovery и сведения об активации: https://foxnext.net/ru/wallet-recovery.html
 - Загрузки: https://foxnext.net/ru/download.html
 - Android (APKPure): [Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery)
+- Telegram: [@Hiblackfox](https://t.me/Hiblackfox)
 
 ---
 
 ## 简体中文
 
 ### 快速开始
-1. 打开官方 Wallet Recovery 产品页或对应语言的下载页。只从官方域名 `foxnext.net` 下载程序。
+1. 从官方域名 `foxnext.net` 打开官方 Wallet Recovery 产品页或对应语言的下载页。此外，Android 版本也已在 APKPure 发布，您也可以从那里下载 [Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery)。
 2. 安装并启动适用于您设备的版本。默认语言为英语；如有需要，可在应用中选择其他支持的语言。
 3. 仅搜索您自己的钱包，或已获得钱包所有者明确授权的钱包。选择助记词长度，将记得的词填入对应位置，并按照应用提示标记未知位置。填写您自己钱包的公用目标地址，并根据钱包文档或备份核对派生路径和账户/索引范围。
 4. 只选择需要查询的网络，然后开始搜索。请在应用的 Guide 页面查看结果和输出文件的保存位置。
@@ -105,3 +108,4 @@ Wallet Recovery 仅可用于您自己的钱包，或已获得所有者明确授�
 - Wallet Recovery 产品与激活信息：https://foxnext.net/zh/wallet-recovery.html
 - 下载页面：https://foxnext.net/zh/download.html
 - Android（APKPure）：[Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery)
+- Telegram：[@Hiblackfox](https://t.me/Hiblackfox)
