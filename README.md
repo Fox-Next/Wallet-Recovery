@@ -5,7 +5,7 @@
 <h1 align="center">Wallet Recovery</h1>
 
 <p align="center">
-  <strong>Offline BIP-39 Recovery &amp; Multi-Chain Scanner · Black Fox Group</strong><br>
+  <strong>Offline BIP-39 Recovery &amp; Multi-Chain Scanner · Fox Nexxt</strong><br>
   Windows &amp; Android · BNB Smart Chain · Ethereum · Polygon · Solana · Tron
 </p>
 
@@ -17,7 +17,7 @@
   <a href="https://foxnext.net/en/wallet-recovery.html">Website</a> ·
   <a href="https://apkpure.com/p/net.foxnext.ru.walletrecovery">APKPure</a> ·
   <a href="https://t.me/Hiblackfox">Telegram</a> ·
-  <a href="https://github.com/BlackFoxGroup/Wallet-Recovery">GitHub</a>
+  <a href="https://github.com/FoxNexxt/Wallet-Recovery">GitHub</a>
 </p>
 
 ---
@@ -38,13 +38,13 @@ Wallet Recovery is intended to help a rightful owner recover access to their own
 5. Never send your recovery phrase, passphrase, private key, or recovery results to support or publish them online.
 
 ### Privacy and security
-Recovery phrases, passphrases, and private keys are processed on your device and are not sent to Black Fox Group/FoxNext servers by the recovery workflow. If you enable network checks, the app sends derived **public addresses** to the RPC or explorer provider you selected; that provider handles those requests under its own privacy policy. The website activation flow submits the Device ID and transaction ID (TX ID) to FoxNext for payment and activation verification. Do not put wallet secrets in the activation form.
+Recovery phrases, passphrases, and private keys are processed on your device and are not sent to Fox Nexxt/FoxNext servers by the recovery workflow. If you enable network checks, the app sends derived **public addresses** to the RPC or explorer provider you selected; that provider handles those requests under its own privacy policy. The website activation flow submits the Device ID and transaction ID (TX ID) to FoxNext for payment and activation verification. Do not put wallet secrets in the activation form.
 
 ### How to verify the download
 Use the HTTPS site and confirm the domain is exactly `foxnext.net`. Follow the Wallet Recovery page to its localized download page. If the site publishes a file signature or checksum, compare it before running the file; do not assume one is available. You may also scan the downloaded file with reputable security software. This is a closed-source product: this public documentation repository does not let you independently inspect or audit the application code, and an official-site link is not a claim of an independent security audit. Avoid copies, repackaged files, and download links sent in chats.
 
 ### Ethical use and responsibility
-Use Wallet Recovery only for your own wallet or with the owner's explicit permission. Do not use it to access another person's wallet or obtain, disclose, or misuse another person's recovery phrase or keys. You are responsible for authorization, compliance with applicable laws, and protecting your information. Black Fox Group promotes ethical use and respect for privacy and ownership.
+Use Wallet Recovery only for your own wallet or with the owner's explicit permission. Do not use it to access another person's wallet or obtain, disclose, or misuse another person's recovery phrase or keys. You are responsible for authorization, compliance with applicable laws, and protecting your information. Fox Nexxt promotes ethical use and respect for privacy and ownership.
 
 ### Activation and payment methods
 Open the [official activation page](https://foxnext.net/en/wallet-recovery-activation.html) and choose your preferred payment method (single-device or multi-device packages for Windows and Android):
@@ -75,13 +75,13 @@ Open the [official activation page](https://foxnext.net/en/wallet-recovery-activ
 ۵. عبارت بازیابی، گذرواژه، کلید خصوصی یا نتیجهٔ بازیابی را برای پشتیبانی نفرستید و در اینترنت منتشر نکنید.
 
 ### حریم خصوصی و امنیت
-عبارت بازیابی، گذرواژه و کلید خصوصی در روند بازیابی روی دستگاه شما پردازش می‌شوند و از طریق روند بازیابی به سرورهای Black Fox Group/FoxNext ارسال نمی‌شوند. اگر بررسی شبکه را فعال کنید، برنامه نشانی‌های **عمومی** مشتق‌شده را برای ارائه‌دهندهٔ RPC یا کاوشگری که انتخاب کرده‌اید می‌فرستد؛ نحوهٔ رسیدگی آن ارائه‌دهنده به این درخواست‌ها تابع سیاست حریم خصوصی خودش است. فرایند فعال‌سازی وب‌سایت، شناسهٔ دستگاه (Device ID) و شناسهٔ تراکنش (TX ID) را برای بررسی پرداخت و فعال‌سازی به FoxNext می‌فرستد. اطلاعات محرمانهٔ کیف پول را در فرم فعال‌سازی وارد نکنید.
+عبارت بازیابی، گذرواژه و کلید خصوصی در روند بازیابی روی دستگاه شما پردازش می‌شوند و از طریق روند بازیابی به سرورهای Fox Nexxt/FoxNext ارسال نمی‌شوند. اگر بررسی شبکه را فعال کنید، برنامه نشانی‌های **عمومی** مشتق‌شده را برای ارائه‌دهندهٔ RPC یا کاوشگری که انتخاب کرده‌اید می‌فرستد؛ نحوهٔ رسیدگی آن ارائه‌دهنده به این درخواست‌ها تابع سیاست حریم خصوصی خودش است. فرایند فعال‌سازی وب‌سایت، شناسهٔ دستگاه (Device ID) و شناسهٔ تراکنش (TX ID) را برای بررسی پرداخت و فعال‌سازی به FoxNext می‌فرستد. اطلاعات محرمانهٔ کیف پول را در فرم فعال‌سازی وارد نکنید.
 
 ### چطور دانلود را بررسی و به آن اعتماد کنیم
 از اتصال HTTPS استفاده کنید و مطمئن شوید نام دامنه دقیقاً `foxnext.net` است. از صفحهٔ Wallet Recovery به صفحهٔ دانلود همان زبان بروید. اگر سایت امضای دیجیتال یا هش فایل را منتشر کرده است، پیش از اجرا آن را تطبیق دهید؛ وجود چنین موردی را فرض نکنید. فایل را می‌توانید با ابزار امنیتی معتبر نیز اسکن کنید. این محصول متن‌بسته است: این مخزن عمومیِ مستندات امکان بررسی مستقل یا ممیزی کد برنامه را نمی‌دهد و لینک سایت رسمی به معنی انجام ممیزی امنیتی مستقل نیست. از نسخه‌های کپی‌شده، بسته‌بندیِ دوباره‌شده و لینک‌های ارسالی در گفتگوها استفاده نکنید.
 
 ### استفادهٔ اخلاقی و مسئولیت
-از Wallet Recovery فقط برای کیف پول خودتان یا با اجازهٔ صریح مالک استفاده کنید. برای دسترسی به کیف پول دیگران یا به‌دست‌آوردن، افشا یا سوءاستفاده از عبارت بازیابی و کلیدهای دیگران از آن استفاده نکنید. گرفتن مجوز، رعایت قوانین قابل‌اجرا و حفاظت از اطلاعات بر عهدهٔ شماست. Black Fox Group رعایت اصول اخلاقی و احترام به حریم خصوصی و مالکیت را ترویج می‌کند.
+از Wallet Recovery فقط برای کیف پول خودتان یا با اجازهٔ صریح مالک استفاده کنید. برای دسترسی به کیف پول دیگران یا به‌دست‌آوردن، افشا یا سوءاستفاده از عبارت بازیابی و کلیدهای دیگران از آن استفاده نکنید. گرفتن مجوز، رعایت قوانین قابل‌اجرا و حفاظت از اطلاعات بر عهدهٔ شماست. Fox Nexxt رعایت اصول اخلاقی و احترام به حریم خصوصی و مالکیت را ترویج می‌کند.
 
 ### فعال‌سازی و روش‌های پرداخت
 از طریق [صفحهٔ رسمی فعال‌سازی](https://foxnext.net/fa/wallet-recovery-activation.html) می‌توانید بستهٔ تک‌دستگاه یا چنددستگاه (ویندوز و اندروید) را با یکی از ۴ روش زیر تهیه کنید:
@@ -112,13 +112,13 @@ Open the [official activation page](https://foxnext.net/en/wallet-recovery-activ
 5. Никогда не отправляйте службе поддержки и не публикуйте в интернете фразу восстановления, парольную фразу, приватный ключ или результаты восстановления.
 
 ### Конфиденциальность и безопасность
-В процессе восстановления фраза восстановления, парольная фраза и приватный ключ обрабатываются на вашем устройстве и не отправляются на серверы Black Fox Group/FoxNext через функцию восстановления. Если включить сетевые проверки, приложение отправляет **публичные** производные адреса выбранному вами RPC-провайдеру или обозревателю; обработка этих запросов регулируется политикой конфиденциальности соответствующего поставщика. При активации через сайт Device ID и идентификатор транзакции (TX ID) передаются FoxNext для проверки платежа и активации. Не вводите секретные данные кошелька в форму активации.
+В процессе восстановления фраза восстановления, парольная фраза и приватный ключ обрабатываются на вашем устройстве и не отправляются на серверы Fox Nexxt/FoxNext через функцию восстановления. Если включить сетевые проверки, приложение отправляет **публичные** производные адреса выбранному вами RPC-провайдеру или обозревателю; обработка этих запросов регулируется политикой конфиденциальности соответствующего поставщика. При активации через сайт Device ID и идентификатор транзакции (TX ID) передаются FoxNext для проверки платежа и активации. Не вводите секретные данные кошелька в форму активации.
 
 ### Как проверить загрузку и оценить доверие
 Используйте HTTPS и проверьте, что домен — именно `foxnext.net`. Перейдите со страницы Wallet Recovery на локализованную страницу загрузок. Если на сайте опубликованы цифровая подпись или контрольная сумма файла, сравните их до запуска; не предполагайте, что они обязательно доступны. Также можно проверить файл надежным средством защиты. Продукт имеет закрытый исходный код: этот публичный репозиторий с документацией не позволяет независимо проверить или провести аудит кода приложения, а ссылка с официального сайта не означает наличие независимого аудита безопасности. Не используйте копии, перепакованные файлы и ссылки, присланные в чатах.
 
 ### Этичное использование и ответственность
-Используйте Wallet Recovery только для своего кошелька либо с явного разрешения владельца. Не применяйте его для доступа к чужому кошельку, получения, раскрытия или неправомерного использования чужой фразы восстановления или ключей. Вы отвечаете за наличие разрешения, соблюдение применимых законов и защиту своей информации. Black Fox Group поддерживает этичное использование и уважение к конфиденциальности и праву собственности.
+Используйте Wallet Recovery только для своего кошелька либо с явного разрешения владельца. Не применяйте его для доступа к чужому кошельку, получения, раскрытия или неправомерного использования чужой фразы восстановления или ключей. Вы отвечаете за наличие разрешения, соблюдение применимых законов и защиту своей информации. Fox Nexxt поддерживает этичное использование и уважение к конфиденциальности и праву собственности.
 
 ### Активация и способы оплаты
 Откройте [официальную страницу активации](https://foxnext.net/ru/wallet-recovery-activation.html) и выберите удобный способ оплаты (доступны пакеты для одного или нескольких устройств Android и Windows):
@@ -149,13 +149,13 @@ Open the [official activation page](https://foxnext.net/en/wallet-recovery-activ
 5. 请勿将助记词、额外密码、私钥或恢复结果发送给客服或发布到网上。
 
 ### 隐私与安全
-恢复流程会在您的设备上处理助记词、额外密码和私钥，不会通过恢复功能将这些信息发送到 Black Fox Group/FoxNext 服务器。如果启用网络查询，应用会将派生出的**公用地址**发送到您选择的 RPC 服务或区块浏览器；这些请求由相应服务提供商按照其隐私政策处理。使用网站激活流程时，Device ID 和交易 ID（TX ID）会提交给 FoxNext，用于付款核验和激活。请勿在激活表单中输入钱包机密信息。
+恢复流程会在您的设备上处理助记词、额外密码和私钥，不会通过恢复功能将这些信息发送到 Fox Nexxt/FoxNext 服务器。如果启用网络查询，应用会将派生出的**公用地址**发送到您选择的 RPC 服务或区块浏览器；这些请求由相应服务提供商按照其隐私政策处理。使用网站激活流程时，Device ID 和交易 ID（TX ID）会提交给 FoxNext，用于付款核验和激活。请勿在激活表单中输入钱包机密信息。
 
 ### 如何核验下载并判断是否可信
 请使用 HTTPS，并确认域名准确为 `foxnext.net`。从 Wallet Recovery 产品页进入对应语言的下载页。如果网站提供了数字签名或文件校验和，请在运行前进行比对；不要假设网站一定提供这些信息。也可以使用可信的安全软件扫描下载文件。本产品为闭源软件：此公开文档仓库无法让您独立检查或审计应用程序代码，官方站点链接也不代表已经通过独立安全审计。请勿使用他人复制、重新打包的文件或聊天中发送的下载链接。
 
 ### 道德使用与责任
-Wallet Recovery 仅可用于您自己的钱包，或已获得所有者明确授权的钱包。不得使用本软件访问他人的钱包，也不得获取、披露或滥用他人的助记词或密钥。您有责任取得授权、遵守适用法律并保护自己的信息。Black Fox Group 倡导合乎道德的使用方式，并尊重隐私与所有权。
+Wallet Recovery 仅可用于您自己的钱包，或已获得所有者明确授权的钱包。不得使用本软件访问他人的钱包，也不得获取、披露或滥用他人的助记词或密钥。您有责任取得授权、遵守适用法律并保护自己的信息。Fox Nexxt 倡导合乎道德的使用方式，并尊重隐私与所有权。
 
 ### 激活与支付方式
 访问[官方激活页面](https://foxnext.net/zh/wallet-recovery-activation.html)并选择您的支付方式（支持适用于 Windows 和 Android 的单设备或多设备激活套餐）：
