@@ -16,8 +16,8 @@
   <a href="#中文">中文</a> ·
   <a href="https://foxnext.net/en/wallet-recovery.html">Website</a> ·
   <a href="https://apkpure.com/p/net.foxnext.ru.walletrecovery">APKPure</a> ·
-  <a href="https://t.me/Hiblackfox">Telegram</a> ·
-  <a href="https://github.com/FoxNexxt/Wallet-Recovery">GitHub</a>
+  <a href="https://t.me/HiFoxnext">Telegram</a> ·
+  <a href="https://github.com/Fox-Next/Wallet-Recovery">GitHub</a>
 </p>
 
 ---
@@ -38,7 +38,7 @@ Wallet Recovery is intended to help a rightful owner recover access to their own
 5. Never send your recovery phrase, passphrase, private key, or recovery results to support or publish them online.
 
 ### Privacy and security
-Recovery phrases, passphrases, and private keys are processed on your device and are not sent to Fox Next/FoxNext servers by the recovery workflow. If you enable network checks, the app sends derived **public addresses** to the RPC or explorer provider you selected; that provider handles those requests under its own privacy policy. The website activation flow submits the Device ID and transaction ID (TX ID) to FoxNext for payment and activation verification. Do not put wallet secrets in the activation form.
+Recovery phrases, passphrases, and private keys are processed on your device and are not sent to Fox Next servers by the recovery workflow. If you enable network checks, the app sends derived **public addresses** to the RPC or explorer provider you selected; that provider handles those requests under its own privacy policy. The website activation flow submits the Device ID and transaction ID (TX ID) to Fox Next for payment and activation verification. Do not put wallet secrets in the activation form.
 
 ### How to verify the download
 Use the HTTPS site and confirm the domain is exactly `foxnext.net`. Follow the Wallet Recovery page to its localized download page. If the site publishes a file signature or checksum, compare it before running the file; do not assume one is available. You may also scan the downloaded file with reputable security software. This is a closed-source product: this public documentation repository does not let you independently inspect or audit the application code, and an official-site link is not a claim of an independent security audit. Avoid copies, repackaged files, and download links sent in chats.
@@ -51,7 +51,7 @@ Open the [official activation page](https://foxnext.net/en/wallet-recovery-activ
 - **Bank cards (`Visa / Mastercard / Link`):** Secure online checkout with instant activation code delivery.
 - **Digital wallets (`Google Pay / Apple Pay`):** Available based on your region and device via secure checkout.
 - **Cryptocurrency (`USDT` on `BNB Smart Chain · BEP-20`):** Transfer `BSC-USD` and submit the transaction hash (`TX Hash`) for automated verification.
-- **Direct support & other crypto networks:** For additional cryptocurrency networks or direct assistance, contact Telegram support ([@Hiblackfox](https://t.me/Hiblackfox)) or email (`support@foxnext.net`) with your `Device ID`.
+- **Direct support & other crypto networks:** For additional cryptocurrency networks or direct assistance, contact Telegram support ([@HiFoxnext](https://t.me/HiFoxnext)) or email (`support@foxnext.net`) with your `Device ID`.
 - **How activation works:** Paste the received activation code into Wallet Recovery to bind a permanent license to your `Device ID`. Recovery phrases, passphrases, and private keys are never sent.
 
 ### Official links
@@ -59,7 +59,7 @@ Open the [official activation page](https://foxnext.net/en/wallet-recovery-activ
 - Wallet Recovery product and activation information: https://foxnext.net/en/wallet-recovery.html
 - Downloads: https://foxnext.net/en/download.html
 - Android (APKPure): [Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery)
-- Telegram: [@Hiblackfox](https://t.me/Hiblackfox)
+- Telegram: [@HiFoxnext](https://t.me/HiFoxnext)
 
 ---
 
@@ -75,7 +75,7 @@ Open the [official activation page](https://foxnext.net/en/wallet-recovery-activ
 ۵. عبارت بازیابی، گذرواژه، کلید خصوصی یا نتیجهٔ بازیابی را برای پشتیبانی نفرستید و در اینترنت منتشر نکنید.
 
 ### حریم خصوصی و امنیت
-عبارت بازیابی، گذرواژه و کلید خصوصی در روند بازیابی روی دستگاه شما پردازش می‌شوند و از طریق روند بازیابی به سرورهای Fox Next/FoxNext ارسال نمی‌شوند. اگر بررسی شبکه را فعال کنید، برنامه نشانی‌های **عمومی** مشتق‌شده را برای ارائه‌دهندهٔ RPC یا کاوشگری که انتخاب کرده‌اید می‌فرستد؛ نحوهٔ رسیدگی آن ارائه‌دهنده به این درخواست‌ها تابع سیاست حریم خصوصی خودش است. فرایند فعال‌سازی وب‌سایت، شناسهٔ دستگاه (Device ID) و شناسهٔ تراکنش (TX ID) را برای بررسی پرداخت و فعال‌سازی به FoxNext می‌فرستد. اطلاعات محرمانهٔ کیف پول را در فرم فعال‌سازی وارد نکنید.
+عبارت بازیابی، گذرواژه و کلید خصوصی در روند بازیابی روی دستگاه شما پردازش می‌شوند و از طریق روند بازیابی به سرورهای Fox Next ارسال نمی‌شوند. اگر بررسی شبکه را فعال کنید، برنامه نشانی‌های **عمومی** مشتق‌شده را برای ارائه‌دهندهٔ RPC یا کاوشگری که انتخاب کرده‌اید می‌فرستد؛ نحوهٔ رسیدگی آن ارائه‌دهنده به این درخواست‌ها تابع سیاست حریم خصوصی خودش است. فرایند فعال‌سازی وب‌سایت، شناسهٔ دستگاه (Device ID) و شناسهٔ تراکنش (TX ID) را برای بررسی پرداخت و فعال‌سازی به Fox Next می‌فرستد. اطلاعات محرمانهٔ کیف پول را در فرم فعال‌سازی وارد نکنید.
 
 ### چطور دانلود را بررسی و به آن اعتماد کنیم
 از اتصال HTTPS استفاده کنید و مطمئن شوید نام دامنه دقیقاً `foxnext.net` است. از صفحهٔ Wallet Recovery به صفحهٔ دانلود همان زبان بروید. اگر سایت امضای دیجیتال یا هش فایل را منتشر کرده است، پیش از اجرا آن را تطبیق دهید؛ وجود چنین موردی را فرض نکنید. فایل را می‌توانید با ابزار امنیتی معتبر نیز اسکن کنید. این محصول متن‌بسته است: این مخزن عمومیِ مستندات امکان بررسی مستقل یا ممیزی کد برنامه را نمی‌دهد و لینک سایت رسمی به معنی انجام ممیزی امنیتی مستقل نیست. از نسخه‌های کپی‌شده، بسته‌بندیِ دوباره‌شده و لینک‌های ارسالی در گفتگوها استفاده نکنید.
@@ -88,7 +88,7 @@ Open the [official activation page](https://foxnext.net/en/wallet-recovery-activ
 - **کارت‌های بانکی بین‌المللی (`Visa / Mastercard / Link`):** پرداخت امن آنلاین و تحویل فوری کد فعال‌سازی.
 - **کیف‌پول‌های دیجیتال (`Google Pay / Apple Pay`):** در دسترس بر اساس موقعیت و دستگاه کاربر از طریق درگاه امن.
 - **ارز دیجیتال (`USDT` روی شبکهٔ `BNB Smart Chain · BEP-20`):** انتقال `BSC-USD` و تأیید خودکار با ثبت هش تراکنش (`TX Hash`).
-- **پرداخت ریالی / کارت به کارت (شتاب):** امکان پرداخت ریالی مستقیماً در صفحهٔ فعال‌سازی یا از طریق هماهنگی با پشتیبانی تلگرام ([@Hiblackfox](https://t.me/Hiblackfox)) و ایمیل (`support@foxnext.net`) فراهم است (پشتیبانی از سایر شبکه‌های رمزارزی نیز از همین طریق انجام می‌شود).
+- **پرداخت ریالی / کارت به کارت (شتاب):** امکان پرداخت ریالی مستقیماً در صفحهٔ فعال‌سازی یا از طریق هماهنگی با پشتیبانی تلگرام ([@HiFoxnext](https://t.me/HiFoxnext)) و ایمیل (`support@foxnext.net`) فراهم است (پشتیبانی از سایر شبکه‌های رمزارزی نیز از همین طریق انجام می‌شود).
 - **نحوهٔ فعال‌سازی:** پس از دریافت کد، آن را در برنامه وارد کنید تا مجوز دائمی به `Device ID` دستگاه شما متصل شود. عبارت بازیابی، گذرواژه و کلید خصوصی هرگز ارسال نمی‌شوند.
 
 ### پیوندهای رسمی
@@ -96,7 +96,7 @@ Open the [official activation page](https://foxnext.net/en/wallet-recovery-activ
 - صفحهٔ Wallet Recovery و اطلاعات فعال‌سازی: https://foxnext.net/fa/wallet-recovery.html
 - دانلودها: https://foxnext.net/fa/download.html
 - اندروید (APKPure): [Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery)
-- تلگرام: [@Hiblackfox](https://t.me/Hiblackfox)
+- تلگرام: [@HiFoxnext](https://t.me/HiFoxnext)
 
 ---
 
@@ -112,7 +112,7 @@ Open the [official activation page](https://foxnext.net/en/wallet-recovery-activ
 5. Никогда не отправляйте службе поддержки и не публикуйте в интернете фразу восстановления, парольную фразу, приватный ключ или результаты восстановления.
 
 ### Конфиденциальность и безопасность
-В процессе восстановления фраза восстановления, парольная фраза и приватный ключ обрабатываются на вашем устройстве и не отправляются на серверы Fox Next/FoxNext через функцию восстановления. Если включить сетевые проверки, приложение отправляет **публичные** производные адреса выбранному вами RPC-провайдеру или обозревателю; обработка этих запросов регулируется политикой конфиденциальности соответствующего поставщика. При активации через сайт Device ID и идентификатор транзакции (TX ID) передаются FoxNext для проверки платежа и активации. Не вводите секретные данные кошелька в форму активации.
+В процессе восстановления фраза восстановления, парольная фраза и приватный ключ обрабатываются на вашем устройстве и не отправляются на серверы Fox Next через функцию восстановления. Если включить сетевые проверки, приложение отправляет **публичные** производные адреса выбранному вами RPC-провайдеру или обозревателю; обработка этих запросов регулируется политикой конфиденциальности соответствующего поставщика. При активации через сайт Device ID и идентификатор транзакции (TX ID) передаются в Fox Next для проверки платежа и активации. Не вводите секретные данные кошелька в форму активации.
 
 ### Как проверить загрузку и оценить доверие
 Используйте HTTPS и проверьте, что домен — именно `foxnext.net`. Перейдите со страницы Wallet Recovery на локализованную страницу загрузок. Если на сайте опубликованы цифровая подпись или контрольная сумма файла, сравните их до запуска; не предполагайте, что они обязательно доступны. Также можно проверить файл надежным средством защиты. Продукт имеет закрытый исходный код: этот публичный репозиторий с документацией не позволяет независимо проверить или провести аудит кода приложения, а ссылка с официального сайта не означает наличие независимого аудита безопасности. Не используйте копии, перепакованные файлы и ссылки, присланные в чатах.
@@ -125,7 +125,7 @@ Open the [official activation page](https://foxnext.net/en/wallet-recovery-activ
 - **Банковские карты (`Visa / Mastercard / Link`):** Безопасная онлайн-оплата с мгновенной выдачей кода активации.
 - **Цифровые кошельки (`Google Pay / Apple Pay`):** Доступны в зависимости от вашей страны и устройства.
 - **Криптовалюта (`USDT` в сети `BNB Smart Chain · BEP-20`):** Перевод `BSC-USD` с автоматической проверкой по хешу транзакции (`TX Hash`).
-- **Прямая поддержка и другие сети:** Для оплаты в других криптовалютных сетях или прямой активации отправьте свой `Device ID` в Telegram ([@Hiblackfox](https://t.me/Hiblackfox)) или на почту (`support@foxnext.net`).
+- **Прямая поддержка и другие сети:** Для оплаты в других криптовалютных сетях или прямой активации отправьте свой `Device ID` в Telegram ([@HiFoxnext](https://t.me/HiFoxnext)) или на почту (`support@foxnext.net`).
 - **Как работает активация:** Вставьте полученный код в Wallet Recovery, чтобы привязать постоянную лицензию к вашему `Device ID`. Фразы восстановления и приватные ключи никогда не передаются.
 
 ### Официальные ссылки
@@ -133,7 +133,7 @@ Open the [official activation page](https://foxnext.net/en/wallet-recovery-activ
 - Страница Wallet Recovery и сведения об активации: https://foxnext.net/ru/wallet-recovery.html
 - Загрузки: https://foxnext.net/ru/download.html
 - Android (APKPure): [Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery)
-- Telegram: [@Hiblackfox](https://t.me/Hiblackfox)
+- Telegram: [@HiFoxnext](https://t.me/HiFoxnext)
 
 ---
 
@@ -149,7 +149,7 @@ Open the [official activation page](https://foxnext.net/en/wallet-recovery-activ
 5. 请勿将助记词、额外密码、私钥或恢复结果发送给客服或发布到网上。
 
 ### 隐私与安全
-恢复流程会在您的设备上处理助记词、额外密码和私钥，不会通过恢复功能将这些信息发送到 Fox Next/FoxNext 服务器。如果启用网络查询，应用会将派生出的**公用地址**发送到您选择的 RPC 服务或区块浏览器；这些请求由相应服务提供商按照其隐私政策处理。使用网站激活流程时，Device ID 和交易 ID（TX ID）会提交给 FoxNext，用于付款核验和激活。请勿在激活表单中输入钱包机密信息。
+恢复流程会在您的设备上处理助记词、额外密码和私钥，不会通过恢复功能将这些信息发送到 Fox Next 服务器。如果启用网络查询，应用会将派生出的**公用地址**发送到您选择的 RPC 服务或区块浏览器；这些请求由相应服务提供商按照其隐私政策处理。使用网站激活流程时，Device ID 和交易 ID（TX ID）会提交给 Fox Next，用于付款核验和激活。请勿在激活表单中输入钱包机密信息。
 
 ### 如何核验下载并判断是否可信
 请使用 HTTPS，并确认域名准确为 `foxnext.net`。从 Wallet Recovery 产品页进入对应语言的下载页。如果网站提供了数字签名或文件校验和，请在运行前进行比对；不要假设网站一定提供这些信息。也可以使用可信的安全软件扫描下载文件。本产品为闭源软件：此公开文档仓库无法让您独立检查或审计应用程序代码，官方站点链接也不代表已经通过独立安全审计。请勿使用他人复制、重新打包的文件或聊天中发送的下载链接。
@@ -162,7 +162,7 @@ Wallet Recovery 仅可用于您自己的钱包，或已获得所有者明确授�
 - **银行卡支付（`Visa / Mastercard / Link`）：** 安全在线结账，付款后即时获取激活码。
 - **数字钱包（`Google Pay / Apple Pay`）：** 根据您所在的国家/地区及设备自动提供支持。
 - **加密货币（`BNB Smart Chain · BEP-20` 网络 `USDT`）：** 转账 `BSC-USD` 后提交交易哈希（`TX Hash`）自动验证并领取激活码。
-- **人工支持与其他网络：** 如需通过其他加密货币网络付款或直接激活，请将您的 `Device ID` 发送至 Telegram 客服（[@Hiblackfox](https://t.me/Hiblackfox)）或联系邮箱（`support@foxnext.net`）。
+- **人工支持与其他网络：** 如需通过其他加密货币网络付款或直接激活，请将您的 `Device ID` 发送至 Telegram 客服（[@HiFoxnext](https://t.me/HiFoxnext)）或联系邮箱（`support@foxnext.net`）。
 - **激活流程：** 将获取的激活码输入 Wallet Recovery，即可将永久许可证绑定到您的 `Device ID`。助记词、额外密码和私钥绝不会被发送。
 
 ### 官方链接
@@ -170,4 +170,4 @@ Wallet Recovery 仅可用于您自己的钱包，或已获得所有者明确授�
 - Wallet Recovery 产品与激活信息：https://foxnext.net/zh/wallet-recovery.html
 - 下载页面：https://foxnext.net/zh/download.html
 - Android（APKPure）：[Wallet Recovery](https://apkpure.com/p/net.foxnext.ru.walletrecovery)
-- Telegram：[@Hiblackfox](https://t.me/Hiblackfox)
+- Telegram：[@HiFoxnext](https://t.me/HiFoxnext)
